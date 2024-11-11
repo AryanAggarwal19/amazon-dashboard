@@ -98,7 +98,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Screenshots
 
 ![Sales Analysis Dashboard](![Sales Dashboard](dash-images/Amazon-Sales_dashboard.png))
-![Sales Analysis Dashboard](![Sales Dashboard](dash-images\Prime-dashboard.png))
+![Sales Analysis Dashboard](![Sales Dashboard](dash-images/Prime-dashboard.png))
 
 ---
 
