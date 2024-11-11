@@ -1,5 +1,10 @@
 # Amazon Sales Dashboard
 
+### Screenshots
+
+![Sales Dashboard](dash-images/Amazon-Sales_dashboard.png)
+![Sales Dashboard](dash-images/Prime-dashboard.png)
+
 ## Project Overview
 
 **Objective**: This Power BI project aims to enhance sales analysis for an e-commerce business actively selling on Amazon and offering Amazon Prime services. The project involves developing two distinct dashboards: one focused on Amazon product sales and the other on Amazon Prime performance. These dashboards will include key performance indicators (KPIs) and visualizations to provide comprehensive insights into sales trends, product performance, and the influence of Amazon Prime on the business.
@@ -92,13 +97,6 @@ Contributions to enhance this dashboard are welcome. Please open an issue to dis
 <!-- ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. -->
-
----
-
-### Screenshots
-
-(![Sales Dashboard](dash-images/Amazon-Sales_dashboard.png))
-(![Sales Dashboard](dash-images/Prime-dashboard.png))
 
 ---
 
