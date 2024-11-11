@@ -97,11 +97,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Screenshots
 
-![Sales Analysis Dashboard](Amazon%20Sales/dash-images/Amazon-Sales-dashboard.png)
-![Amazon Prime Performance Dashboard](Amazon%20Sales/dash-images/Prime-dashboard.png)
+![Sales Analysis Dashboard](![Sales Dashboard](dash-images/Amazon-Sales_dashboard.png))
+![Sales Analysis Dashboard](![Sales Dashboard](dash-images\Prime-dashboard.png))
 
 ---
 
 ### Contact
 
-For questions or further information, please reach out at [aryanaggarwal1901@gmailṣ.com].
+For questions or further information, please reach out at [aryanaggarwal1901@gmail.com].
